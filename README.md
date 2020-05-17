@@ -1,2 +1,2 @@
-# dotfiles
-Ok folks, show's over, nothing to see here, move along
+# My dotfiles
+> Yet another boring dotfiles repo
